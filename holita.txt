@@ -1,8 +1,8 @@
 
   xxxxxxxxx
 xxx00000000xxxxxxxxx
-x00000B0000000B0000x
-x000000000xxxxxxxxxx
+x00000B000BG00BG000x
+x0000G0000xxxxxxxxxx
  xP00000xxxx 
  xxxxxxxx
 
